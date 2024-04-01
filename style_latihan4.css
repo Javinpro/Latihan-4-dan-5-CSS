@@ -1,0 +1,19 @@
+table {
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid black; /* Atur border luar tabel */
+  width: 100%;
+}
+tr {
+  background-color: lightcoral; /* Atur background color untuk semua baris */
+}
+td {
+  height: 50px; /* Atur tinggi sel */
+  border: 1px dashed blue; /* Atur border untuk semua sel */
+  padding: 10px; /* Atur padding sesuai kebutuhan */
+}
+
+.gambar {
+  width: 180px; /* Atur lebar gambar */
+  height: auto; /* Biarkan tinggi gambar menyesuaikan agar gambar tidak terdistorsi */
+}
